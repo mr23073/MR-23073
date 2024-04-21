@@ -24,12 +24,16 @@ Uso
 =====
 Juego de Piedra, Papel o Tijera:Para jugar al juego de Piedra, Papel o Tijera, navega hasta el directorio del proyecto en tu terminal y ejecuta el siguiente comando:
 ```
-python juego_ppt.py
+python P, P o T.py
 ```
 Sigue las instrucciones en la pantalla para jugar.
 
 Conversor de Binario a Decimal:Para usar el conversor de binario a decimal, navega hasta el directorio del proyecto en tu terminal y ejecuta el siguiente comando:
 ```
-python binario_decimal.py
+python binAdec.py
 ```
 Ingresa un número binario cuando se te solicite y presiona Enter. El programa te mostrará su equivalente decimal.
+
+Contribución
+====
+Si quieres contribuir a este proyecto, siéntete libre de hacer un fork y enviar un pull request. Cualquier mejora, corrección de errores o nuevas características son bienvenidas.
