@@ -24,4 +24,4 @@ numero_decimal = convertir_binario_a_decimal(numero_binario)
 if numero_decimal is not None:
   print(f"{numero_binario} en binario equivale a {numero_decimal} en decimal.")
 else:
-  print("¡Error! El valor ingresado no es un número binario válido tiene que ser 0 y 1 .")
+  print("¡Error! El valor ingresado no es un número binario válido.")
